@@ -5,7 +5,7 @@
 [![CI/CD](https://github.com/Ihinr-nOS/.github/actions/workflows/build.yml/badge.svg)](https://github.com/Ihinr-nOS/.github/actions)
 [![Code Quality](https://api.codiga.io/project/XXXXX/status/svg)](https://app.codiga.io/public/project/XXXXX)  
 
-**IhinrẹnOS** (*"Progress" in Edo*) is Africa’s first open-source operating system built **by Africans, for Africans** for IoT Embedded, Computing and Mobile market, combining cutting-edge performance with cultural intentionality.  
+**IhinrẹnOS** (*"Progress" in Edo*) is Africa’s first open-source operating system built for Africa's and global IoT Embedded, Computing and Mobile market, combining cutting-edge performance with cultural intentionality.  
 
 ## 🚀 Purpose  
 To empower Africa’s digital sovereignty by:  
