@@ -14,7 +14,7 @@ To empower Africa’s digital sovereignty by:
 - 🌐 Optimizing for Africa’s unique infrastructure (low-bandwidth, multilingual, IoT-first).  
 
 ## 🔧 Core Components  
-- **PureHarmony**: Derived from PureHarmony OS project, based on Oniro and ancestral OpenHarmony roots.
+- **PureHarmony**: Derived from [PureHarmony](https://github.com/PureHarmonyProject) project, based on [Oniro](https://github.com/eclipse-oniro4openharmony) and ancestral [OpenHarmony](https://gitee.com/openharmony) roots.
 - **OwanCore**: A high-performance, security-hardened kernel forked from **Asterinas**, tailored for African hardware and IoT ecosystems.  
 - **Ihinrẹn SDK**: Tools for building apps in indigenous languages (Hausa, Yoruba, Swahili, Zulu).  
 - **JollofCloud**: GDPR-compliant, Africa-hosted cloud services via partnerships with [Africa Data Centres](https://africadatacentres.com/).  
